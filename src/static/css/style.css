@@ -1,0 +1,18 @@
+body {
+  color: #eee;
+  background-color: #222;
+  font-family: sans-serif;
+  text-align: justify;
+}
+
+a {
+  color: aqua;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+img {
+  border: 10px solid transparent;
+}
