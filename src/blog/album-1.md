@@ -23,5 +23,7 @@ Time is interesting, because it plays with the theme of running out of time, sho
 
 Us and Them touches on the horrors of war, seen from different perspectives, and how in the end, it's just a mess where very few truly benefit from. The song refers to war as a binary perspective, black and white, up and down, and so forth. The overall feeling of the song is how the ordinary men, which is pretty much all of us, only suffer from it, and that War at its core is just pointless death.
 
+<a href="https://www.youtube.com/watch?v=Hh1Xyvu68P0" target="_blank">Link to the album</a>
+
 
 [Home]({{ '/' | url }})
