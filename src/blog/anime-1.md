@@ -1,17 +1,19 @@
 ---
 layout: base.njk
-title: Reseña del libro 1
+title: Assassination Classroom
 tags: animes
 ---
 
 # {{title}}
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque doloremque rem similique asperiores voluptas inventore vero illum eveniet sunt, aut velit incidunt laborum modi atque excepturi praesentium ut veritatis. Facilis.
+<img align="right" src="/static/img/AC.jpg" width="250" height="auto">
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque doloremque rem similique asperiores voluptas inventore vero illum eveniet sunt, aut velit incidunt laborum modi atque excepturi praesentium ut veritatis. Facilis.
+Assassination classroom has been a staple of who makes me, me. Having watched it at a really early stage in my life, it shaped me to be who I am today. It touches on several topics, and I think most of them are quite important. From not judging a book by its cover, to realising that sometimes someone else might want to live their life through you, the show mixes fun scenarios with a memorable and likeable cast alongside valuable life lessons that have stuck with me for a long while. 
 
-![ser Feliz]({{ '/static/img/ser-feliz.jpg' | url }})
+Having only two seasons, it is a short watch (at least compared to what is the next anime) and a very much worthwile watch at that. I couldn't recommend the show more, it is brimming with charm, passion and love. 
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque doloremque rem similique asperiores voluptas inventore vero illum eveniet sunt, aut velit incidunt laborum modi atque excepturi praesentium ut veritatis. Facilis.
+I think the most memorable character is definitely Koro-sensei, the teacher from the class. Using his different anatomy and abilities, he is able to teach his students in a far more different way that, in a way, I think should be the norm. 
+
+The message and theme of the world is impecable and the pacing and writing of the entire show is enough to guarantee a watch, and a couple rewatches.
 
 [Home]({{ '/' | url }})
