@@ -1,3 +1,3 @@
 # Shika 
 ## Practica 6
-Aqui va un link alv
+[Link](https://shikatastrophe.github.io/Par2Prac6/)
