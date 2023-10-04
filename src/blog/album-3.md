@@ -6,7 +6,7 @@ tags: albums
 
 # {{title}}
 
-<img align="right" src="/static/img/BITM.jpg" width="250" height="auto">
+<img align="right" src="{{'/static/img/BITM.jpg'|url}}" width="250" height="auto">
 
 Bounce Into The Music is the debut album for Argentinan rock band SIAMÉS, using a plethora of styles in one album. Released in 2016 under an indie label, this album skyrocketed them into popularity, now being considered one of the most successful indie rock bands of the 2010s
 

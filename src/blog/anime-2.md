@@ -1,12 +1,12 @@
 ---
-layout: base.njk
+layout: anime.njk
 title: One Piece
 tags: animes
 ---
 
 # {{title}}
 
-<img align="right" src="/static/img/OP.jpg" width="250" height="auto">
+<img align="right" src="{{'/static/img/OP.jpg'|url}}" width="250" height="auto">
 
 One Piece needs no introduction; being the most popular anime because of its length, Eiichiro Oda's work of fiction has made rounds all over the world with its stunning narrative and breathtaking panels. The manga originated in 1999 and the anime followed soon after just two years later. Luffy's tale is a long, but satisfying display of talent both in writing, drawing and worldbuilding. 
 

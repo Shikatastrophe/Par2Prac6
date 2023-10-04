@@ -6,7 +6,7 @@ tags: albums
 
 # {{title}}
 
-<img align="right" src="/static/img/DDTLFK.jpg" width="250" height="auto">
+<img align="right" src="{{'/static/img/DDTLFK.jpg'|url}}" width="250" height="auto">
 
 Danger Days was made by the punk rock band My Chemical Romance as their last album. It is a concept album talking about the adventures of "The Killjoys". The whole album has a Mad-Max-esque vibe to it, with both strong punk lyrics and themes of rebellion and anarchy. This being their fourth and last album, it has a different style being far more upbeat compared to their other works.
 

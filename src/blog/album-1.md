@@ -6,7 +6,7 @@ tags: albums
 
 # {{title}}
 
-<img align="right" src="/static/img/The_Dark_Side_of_the_Moon_Cover.png" width="250" height="auto">
+<img align="right" src="{{'/static/img/The_Dark_Side_of_the_Moon_Cover.png'|url}}" width="250" height="auto">
 
 The Dark Side of the Moon is the eighth album of progressive rock band Pink Floyd; it details in an anthology-like structure some of the problems and worries that plague   society. From War, Money and Time to Death and what lies beyond Life itself, the album touches several topics in a plethora of ways characteristic of Pink Floyd's varied style. It is rumoured that this album had immense influence from Syd Barrett, even if the album was made after his departure from the band.
 

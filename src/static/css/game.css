@@ -1,0 +1,18 @@
+body {
+    color: skyblue;
+    background-color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+  }
+  
+  a {
+    color: white;
+  }
+  
+  a:hover {
+    opacity: 0.8;
+  }
+  
+  img {
+    border: 10px solid transparent;
+  }

@@ -1,12 +1,12 @@
 ---
-layout: base.njk
+layout: anime.njk
 title: Assassination Classroom
 tags: animes
 ---
 
 # {{title}}
 
-<img align="right" src="/static/img/AC.jpg" width="250" height="auto">
+<img align="right" src="{{'/static/img/AC.jpg'|url}}" width="250" height="auto">
 
 Assassination classroom has been a staple of who makes me, me. Having watched it at a really early stage in my life, it shaped me to be who I am today. It touches on several topics, and I think most of them are quite important. From not judging a book by its cover, to realising that sometimes someone else might want to live their life through you, the show mixes fun scenarios with a memorable and likeable cast alongside valuable life lessons that have stuck with me for a long while. 
 
